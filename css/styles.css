@@ -133,17 +133,7 @@ nav h1 a {
 }
 
 /* ====================== Restaurant Listing ====================== */
-/*#restaurants-list {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  background-color: #f3f3f3;
-  list-style: outside none none;
-  margin: 0;
-  padding: 30px 15px 60px;
-  text-align: center;
-}*/
+
 #restaurants-list {
   list-style: outside none none;
   margin: 0;
@@ -151,18 +141,7 @@ nav h1 a {
   display: flex;
   flex-wrap: wrap;
 }
-/*#restaurants-list li {
-  display: flex;
-  flex-direction: column;
-  background-color: #fff;
-  border: 2px solid #ccc;
-  font-family: Arial,sans-serif;
-  margin: 15px;
-  min-height: 380px;
-  padding: 0 0 15px;
-  text-align: left;
-  max-width: 85%;
-}*/
+
 #restaurants-list li {
   background-color: #fff;
   font-family: Arial,sans-serif;
