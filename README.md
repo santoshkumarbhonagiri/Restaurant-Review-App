@@ -1,4 +1,4 @@
-##FRONT END WEB DEVELOPER COURSE
+## FRONT END WEB DEVELOPER COURSE
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
